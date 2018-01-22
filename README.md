@@ -43,14 +43,3 @@ After all the python dependencies installed, you should be able to run the **app
 ```bash
 python app.py
 ```
-Next step is to install the JavaScript denpendencies.
-```bash
-npm install
-```
-It will install all the dependencies decleared in **package.json**. Run
-```bash
-npm start
-```
-It will start a dev-server for frontend. Then you should be able to have a quick look about the frontend page.
-
----
